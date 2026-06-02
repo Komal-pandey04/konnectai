@@ -86,4 +86,4 @@ konnectapi/
 | `HF_MODEL` | Optional | Default: Mistral-7B-Instruct-v0.3 |
 | `JWT_SECRET` | Optional | Change in production! |
 | `TWILIO_*` | Optional | SMS alerts when sensitive question detected |
-| `KOMAL_PHONE` | Optional | Komal's phone number for SMS |
+| `KOMAL_PHONE` | Optional | yours phone number for SMS |
