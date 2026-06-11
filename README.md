@@ -1,4 +1,3 @@
-# 🚀 KonnectAPI — HuggingFace Edition
 
 > Production AI + Human hybrid communication platform powered by **HuggingFace Inference API**
 
